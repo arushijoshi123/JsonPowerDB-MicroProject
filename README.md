@@ -24,7 +24,8 @@ The Student Enrollment System offers the following key features:
    - The system ensures that all fields are filled before saving the data.
    - Click the "Save" button to store the data in the SCHOOL-DB database.
    - The system will reset the form for enrolling another student.
-    ![image](https://github.com/arushijoshi123/JsonPowerDB-MicroProject/assets/109513362/36a9541a-6029-4f10-ad74-56fef4babd58)
+   
+    ![image](https://github.com/arushijoshi123/JsonPowerDB-MicroProject/assets/109513362/482bc66e-316a-404e-80b3-222ff8a4a55b)
 
 
 
