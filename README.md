@@ -8,11 +8,11 @@ The Student Enrollment System is a web-based application designed to store and m
 
 ## Benefits of Using JsonPowerDB
 
-- **High Performance:** JsonPowerDB offers high-speed data storage and retrieval, making it an ideal choice for managing student records.
-
-- **Scalability:** The system can handle a growing number of student records, ensuring scalability as your educational institution expands.
-
-- **Data Validation:** JsonPowerDB allows for efficient validation of data, ensuring that no empty fields are saved in the database.
+- Simplest way to retrieve data in a JSON format.
+-Schema-free, Simple to use, Nimble and In-Memory database.
+-It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+-It is low level (raw) form of data and is also human readable.
+-It helps developers in faster coding, in-turn reduces development cost.
 
 
 ## Scope of Functionalities
@@ -25,9 +25,7 @@ The Student Enrollment System offers the following key features:
    - Click the "Save" button to store the data in the SCHOOL-DB database.
    - The system will reset the form for enrolling another student.
    
-   ![image](https://github.com/arushijoshi123/JsonPowerDB-MicroProject/assets/109513362/baae1b22-355b-4c66-8d36-05e5f284585b)
-
-
+  ![image](https://github.com/arushijoshi123/JsonPowerDB-MicroProject/assets/109513362/5ed29600-17de-443e-afd4-dc4ecfb66edb)
 
 
 2. **Update Student Data:**
