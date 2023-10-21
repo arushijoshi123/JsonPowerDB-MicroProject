@@ -1,0 +1,19 @@
+.container {
+  background-color: #ffff99;
+  margin-top: 4rem;
+  width: 50%;
+  padding-top: 3rem;
+}
+.container h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  text-align: center;
+  font-weight: 800;
+}
+.form-group label {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+}
+.form-group ::placeholder {
+  text-align: left;
+}
